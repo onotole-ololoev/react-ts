@@ -1,0 +1,12 @@
+.main {
+    background: chocolate;
+}
+.string {
+
+}
+.row {
+    text-align: left;
+    width: 150px;
+    border: 2px solid white;
+    padding: 5px;
+}
